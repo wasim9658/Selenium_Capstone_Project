@@ -1,0 +1,20 @@
+2026-10-02 01:45:23,129 [INFO] conftest - Launching chrome (headless=False)
+2026-10-02 01:45:23,895 [INFO] conftest - Registering precondition user qa.capstone.1790885723.faa8ca@mailinator.com
+2026-10-02 01:45:23,895 [INFO] pages - Opening https://tutorialsninja.com/demo/index.php?route=account/register
+2026-10-02 01:45:31,651 [INFO] pages - Opening https://tutorialsninja.com/demo/index.php?route=account/logout
+2026-10-02 01:45:32,411 [INFO] pages - Opening https://tutorialsninja.com/demo/
+2026-10-02 01:45:35,001 [INFO] conftest - Screenshot saved: test_purchase_flow_TC01_MacBook__01_home_page__20261002_014534_846.png
+2026-10-02 01:45:35,002 [INFO] pages - Opening https://tutorialsninja.com/demo/index.php?route=account/login
+2026-10-02 01:45:38,995 [INFO] tests - Logged in as qa.capstone.1790885723.faa8ca@mailinator.com
+2026-10-02 01:45:39,106 [INFO] conftest - Screenshot saved: test_purchase_flow_TC01_MacBook__02_logged_in__20261002_014538_996.png
+2026-10-02 01:45:39,107 [INFO] pages - Opening https://tutorialsninja.com/demo/
+2026-10-02 01:45:42,385 [INFO] tests - Search 'MacBook' returned: ['MacBook', 'MacBook Air', 'MacBook Pro']
+2026-10-02 01:45:42,497 [INFO] conftest - Screenshot saved: test_purchase_flow_TC01_MacBook__03_search_results__20261002_014542_386.png
+2026-10-02 01:45:44,232 [INFO] conftest - Screenshot saved: test_purchase_flow_TC01_MacBook__04_added_to_cart__20261002_014544_084.png
+2026-10-02 01:45:44,274 [INFO] pages - Closed 1 alert banner(s)
+2026-10-02 01:45:44,274 [INFO] pages - Opening https://tutorialsninja.com/demo/index.php?route=checkout/cart
+2026-10-02 01:45:46,032 [INFO] conftest - Screenshot saved: test_purchase_flow_TC01_MacBook__05_cart_before_update__20261002_014545_927.png
+2026-10-02 01:45:48,302 [INFO] conftest - Screenshot saved: test_purchase_flow_TC01_MacBook__06_cart_after_update__20261002_014548_193.png
+2026-10-02 01:45:48,365 [INFO] tests - Cart: MacBook x3 @ 602.00 = 1806.00 (grand total 1806.00)
+2026-10-02 01:45:48,485 [INFO] conftest - Screenshot saved: test_purchase_flow_TC01_MacBook__07_cart_verified__20261002_014548_380.png
+2026-10-02 01:45:50,712 [INFO] conftest - Browser closed

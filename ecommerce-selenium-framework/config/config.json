@@ -1,0 +1,9 @@
+{
+  "base_url": "https://tutorialsninja.com/demo/",
+  "browser": "chrome",
+  "headless": false,
+  "explicit_wait": 15,
+  "page_load_timeout": 60,
+  "window_size": "1366,900",
+  "screenshot_dir": "reports/screenshots"
+}

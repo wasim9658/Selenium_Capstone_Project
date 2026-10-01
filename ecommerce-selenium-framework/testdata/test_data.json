@@ -1,0 +1,15 @@
+{
+  "user": {
+    "first_name": "Capstone",
+    "last_name": "Tester",
+    "email_prefix": "qa.capstone",
+    "email_domain": "mailinator.com",
+    "telephone": "9876543210",
+    "password": "Capstone@123"
+  },
+  "negative_login": {
+    "email": "nobody.invalid@example.com",
+    "password": "WrongPass@1",
+    "expected_error": "No match for E-Mail Address and/or Password."
+  }
+}
