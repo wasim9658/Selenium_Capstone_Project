@@ -319,7 +319,7 @@ Through this project, I gained practical knowledge of:
 ## 🔗 Project Repository
 
 **GitHub:**  
-https://github.com/wasim9658/Selenium-Capstone-Project/tree/main/ecommerce-selenium-framework
+https://github.com/wasim9658/Selenium_Capstone_Project/tree/main/ecommerce-selenium-framework
 
 ---
 
