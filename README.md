@@ -312,7 +312,7 @@ Through this project, I gained practical knowledge of:
 
 **Enrollment Number:** 12023002022233
 
-**University:** Institute of Engineering and Management (IEM), Kolkata
+**University:** University of Engineering and Management (UEM), Kolkata
 
 ---
 
